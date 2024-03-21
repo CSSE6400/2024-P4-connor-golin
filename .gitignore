@@ -5,6 +5,8 @@ credentials
 # Local .terraform directories
 **/.terraform/*
 
+__pycache__
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
